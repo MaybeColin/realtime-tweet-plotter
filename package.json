@@ -1,14 +1,15 @@
 {
-  "name": “realtime-tweet-plotter”,
+  "name": "realtime-tweet-plotter",
   "version": "0.0.1",
-  "author": “Colin White”,
+  "author": "Colin White",
   "private": true,
   "scripts": {
     "start": "node app"
   },
   "dependencies": {
-    "express": “*”,
+    "express": "*",
     "socket.io": "*",
-    “twit”: "*"
+    "twit": "*"
   }
 }
+
