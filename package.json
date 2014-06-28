@@ -1,14 +1,14 @@
 {
-  "name": "twitter-streaming-node",
+  "name": “realtime-tweet-plotter”,
   "version": "0.0.1",
-  "author": "stewartatsafe",
+  "author": “Colin White”,
   "private": true,
   "scripts": {
     "start": "node app"
   },
   "dependencies": {
-    "express": "^4.4.5",
+    "express": “*”,
     "socket.io": "*",
-    "twitter": "*"
+    “twit”: "*"
   }
 }
